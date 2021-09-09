@@ -1,0 +1,14 @@
+
+In vterm-mode:
+vterm.el:743:46:Warning: assignment to free variable
+    ‘bookmark-make-record-function’
+
+In vterm--get-shell:
+vterm.el:749:26:Warning: reference to free variable ‘method’
+
+In vterm--bookmark-handler:
+vterm.el:786:15:Warning: reference to free variable ‘vterm-copy-mode’
+
+In end of data:
+vterm.el:1679:1:Warning: the following functions are not known to be defined:
+    with-parsed-tramp-file-name, bookmark-prop-get
